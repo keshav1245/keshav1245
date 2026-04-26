@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kesh 👋</h1>
-<h3 align="center">Software Engineer | Backend Systems | Microservices | FastAPI | React | MongoDB | DevOps (Transitioning)</h3>
+<h3 align="center">Software Engineer | Backend Systems | FastAPI | React | MongoDB | Linux | Docker | DevOps (Transitioning)</h3>
 
 <p align="center">
   <a href="mailto:tangri57@gmail.com">Email</a> •
@@ -17,7 +17,7 @@
 - 🏆 Recipient of **Vice Chancellor’s International Scholarship (50%)**  
 - ⚙️ Strong focus on **backend systems, distributed architecture & scalability**  
 - 🔐 Built **centralised authentication (OIDC + RBAC)** across multiple services  
-- 🚀 Transitioning towards **DevOps → MLOps**  
+- 🚀 Transitioning towards **DevOps**  
 
 ---
 
