@@ -3,10 +3,9 @@
 
 <p align="center">
   <a href="mailto:tangri57@gmail.com">Email</a> •
-  <a href="https://keshavtangri.netlify.app/">Visit my Portfolio</a> •
-  <a href="https://www.linkedin.com/in/keshav-t-7ab782104/">LinkedIn</a> •
-  <a href="https://github.com/keshav1245">GitHub</a> •
-  <a href="https://zukayu.medium.com/">Medium</a>
+  <a href="https://keshavtangri.netlify.app/" target="_blank">Visit my Portfolio</a> •
+  <a href="https://www.linkedin.com/in/keshav-t-7ab782104/" target="_blank">LinkedIn</a> •
+  <a href="https://zukayu.medium.com/" target="_blank">Medium</a>
 </p>
 
 ---
