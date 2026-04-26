@@ -87,6 +87,11 @@
 - Keycloak + OIDC + RBAC  
 - Secured **5+ internal applications**
 
+### 🌐 Youth Tech Net - AI Policy & Technology Advocacy Platform at ANU
+
+- Leading development of a web platform for **Youth Tech Net** <a href="https://youthtechnet.au/">visit our website</a>
+- Executive Committee member collaborating with a **multidisciplinary team** (Anthropology, Philosophy, Arts, Tech)
+
 ### 📊 Campaign & Polling System
 - Django + PostgreSQL backend  
 - React frontend  
